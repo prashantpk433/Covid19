@@ -24,3 +24,8 @@ Note: tkinter comes preinstalled in python3.6  and newer versions
 
 its and easy process which when you run the code you will be prompted to download button ,uppon clicking it will download the file as "data.csv" 
 
+![Screenshot (117)](https://user-images.githubusercontent.com/22268282/90325984-34b10800-dfa0-11ea-945e-793be52e03fa.png)
+
+![Screenshot (118)](https://user-images.githubusercontent.com/22268282/90325991-4eeae600-dfa0-11ea-9f46-108af51d141e.png)
+
+![Screenshot (119)_LI](https://user-images.githubusercontent.com/22268282/90325998-5d390200-dfa0-11ea-81bd-a94ff0588982.jpg)
