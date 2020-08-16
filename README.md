@@ -22,7 +22,7 @@ Note: tkinter comes preinstalled in python3.6  and newer versions
 
 ### Look and Feel
 
-its and easy process which when you run the code you will be prompted to download button ,uppon clicking it will download the file as "data.csv" .
+its and easy process which when you run the code you will be prompted to download button ,upon clicking it will download the file as "data.csv" .
 if you will click on the download button you will received a message.
 check the same folder as program for data downloaded.If you will check the data this is what we downloaded.
 
